@@ -1,37 +1,36 @@
-# avatarum-core
-avatarum-core
 # Avatarum Core
 
-**Avatarum** is a photorealistic AI portrait generator with personalization, realism tuning, and creative styles — powered by modern model inference and served at scale.
+**Avatarum** is a next-generation AI image service enabling users to generate cinematic, photorealistic portraits with personalized styles.
 
-We use serverless infrastructure for efficient GPU-based processing and image delivery, with a strong focus on quality, privacy, and control.
+The system is built for scalability, creative control, and visual quality — using modern model serving infrastructure with privacy and performance in mind.
 
 ---
 
 ## 🚀 Key Features
 
 - Personalized model-based generation
-- Realism-tuned AI output with creative variation
-- Scalable backend via modern cloud infrastructure
-- Real-time delivery via messaging interface
+- Realism-tuned AI outputs
+- Creative style variations
+- Scalable GPU-powered backend
+- Messaging-first interface (e.g., Telegram)
 
 ---
 
 ## 📁 Structure
 
-- `modal/` – compute jobs
-- `README.md` – this file
+- `README.md` – project overview
 - `LICENSE` – MIT License
 
 ---
 
 ## 🔐 License
 
-All source files are MIT-licensed. Generated media is ephemeral and not stored.
+All source files in this repository are licensed under the MIT License.  
+Generated media is ephemeral and not stored permanently.
 
 ---
 
 ## 👋 Contact
 
-Organization: [Avatarum-AI](https://github.com/avatarum-ai)  
-Maintained by: Noizlab LTD
+Maintained by **Noizlab LTD**  
+GitHub Organization: [github.com/avatarum-ai](https://github.com/avatarum-ai)

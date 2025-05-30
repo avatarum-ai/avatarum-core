@@ -1,0 +1,2 @@
+# avatarum-core
+avatarum-core
